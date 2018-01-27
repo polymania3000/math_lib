@@ -1,5 +1,11 @@
+#include "pro_math.h"
 
 int main()
 {
-  return 0;
+    while (1)
+    {
+
+    }
+
+    return 0;
 }

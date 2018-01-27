@@ -2372,4 +2372,10 @@
     <file>
         <name>$PROJ_DIR$\main.c</name>
     </file>
+    <file>
+        <name>$PROJ_DIR$\pro_math.c</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\pro_math.h</name>
+    </file>
 </project>
